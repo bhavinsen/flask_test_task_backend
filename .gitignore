@@ -1,0 +1,22 @@
+.DS_Store
+.env
+*.pyc
+*.pyo
+env/
+venv/
+.venv/
+env*
+dist/
+build/
+.cache/
+.pytest_cache/
+.idea/
+docs/_build/
+.vscode
+/__pycache__/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+*,cover
